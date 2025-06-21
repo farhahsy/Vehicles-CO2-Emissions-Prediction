@@ -70,15 +70,15 @@ This dashboard was developed using **Power BI** to present key insights derived 
 
 ## 📂 How to Use the Dashboard
 
-[![Dashboard Demo Video](./dashboard/screenshots/video_thumbnail.png)](https://drive.google.com/file/d/1HM4pB_vNAFKSUTVr5-X3Oo2h0NpZRx3r/view?usp=sharing)
+[![Dashboard Demo Video](./dashboard/video_thumbnail.png)](https://drive.google.com/file/d/1HM4pB_vNAFKSUTVr5-X3Oo2h0NpZRx3r/view?usp=sharing)
 
 ---
 
 ## 📸 Screenshots
 
-![Dashboard Page 1](./dashboard/screenshots/vehicle_class_emissions.jpg)
+![Dashboard Page 1](./dashboard/vehicle_class_emissions.jpg)
 
-![Dashboard Page 2](./dashboard/screenshots/vehicle_class_emissions_1.jpg)
+![Dashboard Page 2](./dashboard/vehicle_class_emissions_1.jpg)
 
-![Dashboard Page 3](./dashboard/screenshots/vehicle_class_emissions_2.jpg)
+![Dashboard Page 3](./dashboard/vehicle_class_emissions_2.jpg)
 
