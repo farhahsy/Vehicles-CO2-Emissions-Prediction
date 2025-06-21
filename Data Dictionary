@@ -1,0 +1,98 @@
+# 📘 Data Dictionary
+
+This document defines the key variables used in the dataset for the project.
+---
+
+## 🚗 Model
+
+| Code | Description |
+|------|-------------|
+| AWD  | All-Wheel Drive — Vehicle designed to operate with all wheels powered |
+| 4WD / 4X4 | Four-Wheel Drive — Vehicle designed to operate with either two or four wheels powered |
+| FFV  | Flexible-Fuel Vehicle — Operates on gasoline and ethanol blends up to 85% ethanol (E85) |
+| CNG  | Compressed Natural Gas |
+| NGV  | Natural Gas Vehicle |
+| SWB  | Short Wheelbase |
+| LWB  | Long Wheelbase |
+| EWB  | Extended Wheelbase |
+
+---
+
+## 🚘 Class
+
+Vehicle size or type:
+
+- Two-seater  
+- Minicompact  
+- Subcompact  
+- Compact  
+- Mid-size  
+- Full-size  
+- Station wagon: Small  
+- Station wagon: Mid-size  
+- Pickup truck: Small  
+- Pickup truck: Standard  
+- Sport utility vehicle: Small  
+- Sport utility vehicle: Standard  
+- Minivan  
+- Van: Cargo  
+- Van: Passenger  
+- Special purpose vehicle
+
+---
+
+## 🔧 Engine Size
+
+- Total displacement of all engine cylinders, measured in litres (L)
+
+---
+
+## 🔩 Cylinders
+
+- Number of engine cylinders
+
+---
+
+## ⚙️ Transmission
+
+| Code | Description |
+|------|-------------|
+| A    | Automatic |
+| AM   | Automated Manual |
+| AS   | Automatic with Select Shift |
+| AV   | Continuously Variable Transmission |
+| M    | Manual |
+| 1–10 | Number of gears or speeds |
+
+---
+
+## ⛽ Fuel Type
+
+| Code | Description |
+|------|-------------|
+| X    | Regular Gasoline |
+| Z    | Premium Gasoline |
+| D    | Diesel |
+| E    | E85 (85% ethanol) |
+| N    | Natural Gas |
+
+---
+
+## 🛣️ Fuel Consumption Ratings (L/100 km)
+
+- **City Rating**: Urban driving in stop-and-go traffic  
+- **Highway Rating**: Open highway and rural road driving, typical of longer trips  
+- **Combined Rating**: 55% city and 45% highway driving
+
+---
+
+## 🌱 CO₂ Emissions
+
+- Tailpipe CO₂ emissions in grams per kilometre (g/km) for combined city and highway driving  
+- For Plug-in Hybrid Electric Vehicles (PHEVs), values reflect a mix of electric and gasoline-only operation
+
+---
+
+## 📊 CO₂ Rating
+
+- Tailpipe CO₂ emissions rated from **1 (worst)** to **10 (best)**
