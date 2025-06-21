@@ -76,9 +76,9 @@ This dashboard was developed using **Power BI** to present key insights derived 
 
 ## 📸 Screenshots
 
-![CO2 Emissions by Vehicle Class](./dashboard/screenshots/vehicle_class_emissions.jpg)
+![Dashboard Page 1](./dashboard/screenshots/vehicle_class_emissions.jpg)
 
-![CO2 Emissions by Vehicle Class (1)](./dashboard/screenshots/vehicle_class_emissions_1.jpg)
+![Dashboard Page 2](./dashboard/screenshots/vehicle_class_emissions_1.jpg)
 
-![CO2 Emissions by Vehicle Class (2)](./dashboard/screenshots/vehicle_class_emissions_2.jpg)
+![Dashboard Page 3](./dashboard/screenshots/vehicle_class_emissions_2.jpg)
 
